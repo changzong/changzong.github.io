@@ -24,9 +24,9 @@ author:
   avatar           : "personal-photo.jpg"
   name             : "Zong Chang"
   pronouns         : # example: "she/her"  
-  bio              : "I was graduated from Harbin Institute of Technology (Bachelor's degree in Information Securith), University of Edinburgh (Master's degree in Informatics), and Zhejiang University (Doctor's degree in Artificial Intelligence). I'm currently a researcher in Zhejiang University of Science and Technology."
+  bio              : "I'm currently a researcher in Zhejiang University of Science and Technology. My research insterests are in Multimodal Large Models, Knowledge-Augmented LLMs, Biomedical AI, Financial AI. "
   location         : "Hangzhou, China"
-  employer         : "Zhejiang University of Science and Technology"
+  employer         : "ZUST"
   uri              : # URL
   email            : "zongchang@zju.edu.cn" 
 
