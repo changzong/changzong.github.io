@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "Academic Career"
+title: "Chang Zong"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
+## Academic Career
 I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn/)), co-advised by [Prof. Yueting Zhuang](https://person.zju.edu.cn/yzhuang), [Prof. Jian Shao](https://person.zju.edu.cn/jshao), [Prof. Weiming Lu](https://person.zju.edu.cn/lwm), and [Prof. Siliang Tang](https://person.zju.edu.cn/siliang) . I received my Bachelor's Degree in the Department of Computer Science and Technology from Harbin Institute of Technology ([HIT](https://www.hit.edu.cn/)). I received my Master's Degree in the School of Informatics from the University of Edinburgh ([UoE](https://www.ed.ac.uk/)), UK. I am currently a lecturer in Zhejiang University of Science and Technology ([ZUST](https://www.zust.edu.cn/)), working in [BIT Lab](http://bit.zust.edu.cn/catalogue/information.html).
 
 
@@ -55,7 +56,14 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 - Object Oriented Programming with Python, 2025 Spring, [Lecture Site](course-media-python-2025.notion.site)
 - Literature Retrieval and Writing, 2025 Spring, [Lecture Site](https://course-master-literature-2025.notion.site)
 
-## R&D Projects
-- Zhejiang Province Key Research and Development Plan, 2025, First Participant
-- Zhejiang Province Key Research and Development Plan, 2022, First Student Participant
-- National Key Research and Development Program of China, 2021, Participant
+## Government Projects
+- Zhejiang Province Key Research and Development Plan (Leading Project), 2025, First Participant
+- Zhejiang Province Key Research and Development Plan (Geese Project), 2023, Participant
+- Zhejiang Province Key Research and Development Plan (Selective Commission Project), 2022, First Student Participant
+- National Key Research and Development Program of China (2030), 2021, Participant
+
+## Working Experience
+- AI Director (VP), QuantChi Data, Hangzhou, China 
+- Big Data Engineer, Electronic Soul, Hangzhou, China
+- Big Data Engineer, Transfer Group, Hangzhou, China
+- Data Scientist, ShapeSpace Ltd. Edinburgh, UK
