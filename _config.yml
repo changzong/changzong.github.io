@@ -24,11 +24,11 @@ author:
   avatar           : "personal-photo.jpg"
   name             : "Zong Chang"
   pronouns         : # example: "she/her"  
-  bio              : "I'm currently a researcher in Zhejiang University of Science and Technology. My research insterests are in Multimodal Large Models, Knowledge-Augmented LLMs, Biomedical AI, Financial AI. "
+  bio              : "I'm currently a lecturer in Zhejiang University of Science and Technology. My research insterests are in Multimodal Large Models, Multi-Agent Systems, Biomedical AI, Financial AI. "
   location         : "Hangzhou, China"
   employer         : "ZUST"
   uri              : # URL
-  email            : "zongchang@zju.edu.cn" 
+  email            : "zongchang@zust.edu.cn" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
@@ -44,7 +44,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "academicpages"
+  github           : "https://github.com/changzong"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
