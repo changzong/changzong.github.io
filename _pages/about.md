@@ -15,7 +15,7 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 - Journal Reviewer: ACM TKDD
 
 ## OpenSource Project
-- [OpenKS: A domain generalizable knowledge learning and computing platform](https://github.com/ZJU-OpenKS/OpenKS), Project Leader
+- OpenKS: A domain generalizable knowledge learning and computing platform, Project Leader, [GitHub](https://github.com/ZJU-OpenKS/OpenKS), 
 
 ## Selected Publications
 - [Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions](https://arxiv.org/abs/2504.15918)
@@ -50,4 +50,12 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu 
   - BDSC, 2023
 
+## Teaching
+- Large Models and Natural Language Processing, 2025 Spring
+- Object Oriented Programming with Python, 2025 Spring, [Lecture Site](course-media-python-2025.notion.site)
+- Literature Retrieval and Writing, 2025 Spring, [Lecture Site](https://course-master-literature-2025.notion.site)
 
+## R&D Projects
+- Zhejiang Province Key Research and Development Plan, 2025, First Participant
+- Zhejiang Province Key Research and Development Plan, 2022, First Student Participant
+- National Key Research and Development Program of China, 2021, Participant
