@@ -19,37 +19,37 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 - OpenKS: A domain generalizable knowledge learning and computing platform, Project Leader, [GitHub](https://github.com/ZJU-OpenKS/OpenKS), 
 
 ## Selected Publications
-- [Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions](https://arxiv.org/abs/2504.15918)
-  - **Chang Zong**, Bin Li, Shoujun Zhou, Jian Wan, Lei Zhang
-  - Preprint, 2025
-
 - [EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering](https://arxiv.org/abs/2501.12746)
   - **Chang Zong**, Jian Wan, Siliang Tang, Lei Zhang
-  - Artificial Intelligence in Medicine, 2025
+  - Accepted by the journal of *Artificial Intelligence in Medicine*, 2025
 
 - [Stock Movement Prediction with Multimodal Stable Fusion via Gated Cross-Attention Mechanism](https://link.springer.com/article/10.1007/s40747-025-02023-3)
   - **Chang Zong**, Jian Wan, Lucia Cascone, Hang Zhou
-  - Complex & Intelligent Systems, 2025
+  - Published on the journal of *Complex & Intelligent Systems*, 2025
+
+- [Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions](https://arxiv.org/abs/2504.15918)
+  - **Chang Zong**, Bin Li, Shoujun Zhou, Jian Wan, Lei Zhang
+  - Under Review, 2025
 
 - [Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering](https://aclanthology.org/2024.emnlp-main.101/)
   - **Chang Zong**, Yuchen Yan, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
+  - Published on the conference of *Empirical Methods in Natural Language Processing (EMNLP)*, 2024
 
 - [Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning](https://aclanthology.org/2024.acl-long.222/)
   - Zeqi Tan, Yongliang Shen, Xiaoxia Cheng, **Chang Zong**, Wenqi Zhang, Jian Shao, Weiming Lu, Yueting Zhuang
-  - Annual Meeting of the Association for Computational Linguistics (ACL), 2024
+  - Published on the conference of *Annual Meeting of the Association for Computational Linguistics (ACL)*, 2024
 
 - [ProSwitch: Knowledge-Guided Instruction Tuning to Switch Between Professional and Non-Professional Responses](https://arxiv.org/abs/2403.09131)
   - **Chang Zong**, Yuyan Chen, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - Preprint, 2024
+  - Preprint of *arXiv*, 2024
 
 - [Graph neural networks meet with distributed graph partitioners and reconciliations](https://www.sciencedirect.com/science/article/abs/pii/S0925231222011894)
   - Zongshen Mu, Siliang Tang, **Chang Zong**, Dianhai Yu, Yueting Zhuang 
-  - Neurocomputing, 2023
+  - Published on the journal of *Neurocomputing*, 2023
 
 - [Citation Prediction via Influence Representation Using Temporal Graphs](https://link.springer.com/chapter/10.1007/978-981-99-3925-1_14)
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu 
-  - Big Data and Social Computing (BDSC), 2023
+  - Published on the conference of *Big Data and Social Computing (BDSC)*, 2023
 
 ## Teaching
 - Large Models and Natural Language Processing, 2025 Spring
@@ -63,7 +63,8 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 - National Key Research and Development Program of China (2030), 2021, Participant
 
 ## Working Experience
-- AI Director (VP), QuantChi Data, Hangzhou, China 
-- Big Data Engineer, Electronic Soul, Hangzhou, China
-- Big Data Engineer, Transfer Group, Hangzhou, China
-- Data Scientist, ShapeSpace Ltd. Edinburgh, UK
+- Lecture, Zhejiang University of Science and Technology, Hangzhou, China (2024 - present)
+- AI Director (VP), QuantChi Data, Hangzhou, China (2018 - 2023)
+- Big Data Engineer, Electronic Soul, Hangzhou, China (2016 - 2018)
+- Big Data Engineer, Transfer Group, Hangzhou, China (2015 - 2016)
+- Data Scientist, ShapeSpace Ltd. Edinburgh, UK (2013 - 2015)
