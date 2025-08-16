@@ -25,19 +25,19 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 
 - [EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering](https://arxiv.org/abs/2501.12746)
   - **Chang Zong**, Jian Wan, Siliang Tang, Lei Zhang
-  - Preprint, 2025
+  - Artificial Intelligence in Medicine, 2025
+
+- [Stock Movement Prediction with Multimodal Stable Fusion via Gated Cross-Attention Mechanism](https://link.springer.com/article/10.1007/s40747-025-02023-3)
+  - **Chang Zong**, Jian Wan, Lucia Cascone, Hang Zhou
+  - Complex & Intelligent Systems, 2025
 
 - [Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering](https://aclanthology.org/2024.emnlp-main.101/)
   - **Chang Zong**, Yuchen Yan, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - EMNLP, 2024
+  - Conference on Empirical Methods in Natural Language Processing (EMNLP), 2024
 
 - [Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning](https://aclanthology.org/2024.acl-long.222/)
   - Zeqi Tan, Yongliang Shen, Xiaoxia Cheng, **Chang Zong**, Wenqi Zhang, Jian Shao, Weiming Lu, Yueting Zhuang
-  - ACL, 2024
-
-- [Stock Movement Prediction with Multimodal Stable Fusion via Gated Cross-Attention Mechanism](https://arxiv.org/abs/2406.06594)
-  - **Chang Zong**, Jian Wan, Lucia Cascone, Hang Zhou
-  - Preprint, 2024
+  - Annual Meeting of the Association for Computational Linguistics (ACL), 2024
 
 - [ProSwitch: Knowledge-Guided Instruction Tuning to Switch Between Professional and Non-Professional Responses](https://arxiv.org/abs/2403.09131)
   - **Chang Zong**, Yuyan Chen, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
@@ -49,7 +49,7 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 
 - [Citation Prediction via Influence Representation Using Temporal Graphs](https://link.springer.com/chapter/10.1007/978-981-99-3925-1_14)
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu 
-  - BDSC, 2023
+  - Big Data and Social Computing (BDSC), 2023
 
 ## Teaching
 - Large Models and Natural Language Processing, 2025 Spring
