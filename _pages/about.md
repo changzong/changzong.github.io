@@ -12,7 +12,7 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 
 
 ## Professional Services
-- Conference Reviewer: NeurIPS 2025, ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025, NeurIPS 2024
+- Conference Reviewer: NeurIPS 2025, ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025/2026, NeurIPS 2024/2025
 - Journal Reviewer: ACM TKDD
 
 ## OpenSource Project
@@ -21,11 +21,11 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 ## Selected Publications
 - [EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0933365725001812)
   - **Chang Zong**, Jian Wan, Siliang Tang, Lei Zhang
-  - Published on the journal of *Artificial Intelligence in Medicine* (SCI Top), 2025
+  - Published on the journal of *Artificial Intelligence in Medicine* (SCI Q1), 2025
 
 - [Stock Movement Prediction with Multimodal Stable Fusion via Gated Cross-Attention Mechanism](https://link.springer.com/article/10.1007/s40747-025-02023-3)
   - **Chang Zong**, Jian Wan, Lucia Cascone, Hang Zhou
-  - Published on the journal of *Complex & Intelligent Systems* (SCI), 2025
+  - Published on the journal of *Complex & Intelligent Systems* (SCI Q2), 2025
 
 - [Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions](https://arxiv.org/abs/2504.15918)
   - **Chang Zong**, Bin Li, Shoujun Zhou, Jian Wan, Lei Zhang
@@ -34,6 +34,10 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 - [Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering](https://aclanthology.org/2024.emnlp-main.101/)
   - **Chang Zong**, Yuchen Yan, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
   - Published on the conference of *Empirical Methods in Natural Language Processing (EMNLP)* (CCF-B), 2024
+
+- [Structural-Temporal Coupling Anomaly Detection with Dynamic Graph Transformer](https://arxiv.org/abs/2505.08330)
+  - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu
+  - Under Review, 2025
 
 - [Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning](https://aclanthology.org/2024.acl-long.222/)
   - Zeqi Tan, Yongliang Shen, Xiaoxia Cheng, **Chang Zong**, Wenqi Zhang, Jian Shao, Weiming Lu, Yueting Zhuang
@@ -45,15 +49,16 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 
 - [Graph neural networks meet with distributed graph partitioners and reconciliations](https://www.sciencedirect.com/science/article/abs/pii/S0925231222011894)
   - Zongshen Mu, Siliang Tang, **Chang Zong**, Dianhai Yu, Yueting Zhuang 
-  - Published on the journal of *Neurocomputing* (SCI), 2023
+  - Published on the journal of *Neurocomputing* (SCI Q1), 2023
 
 - [Citation Prediction via Influence Representation Using Temporal Graphs](https://link.springer.com/chapter/10.1007/978-981-99-3925-1_14)
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu 
   - Published on the conference of *Big Data and Social Computing (BDSC)*, 2023
 
 ## Teaching
-- Large Models and Natural Language Processing, 2025 Spring
-- Object Oriented Programming with Python, 2025 Spring, [Lecture Site](course-media-python-2025.notion.site)
+- Medical Artificial Intelligence, 2025 Autumn, [Lecture Site](https://course-master-medai-2025.notion.site)
+- Natural Language Processing & Large Language Models, 2025 Spring
+- Object Oriented Programming with Python, 2025 Spring, [Lecture Site](https://course-media-python-2025.notion.site)
 - Literature Retrieval and Writing, 2025 Spring, [Lecture Site](https://course-master-literature-2025.notion.site)
 
 ## Government Projects
