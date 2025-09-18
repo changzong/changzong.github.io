@@ -10,6 +10,8 @@ redirect_from:
 ## Academic Career
 I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn/)), co-advised by [Prof. Yueting Zhuang](https://person.zju.edu.cn/yzhuang), [Prof. Jian Shao](https://person.zju.edu.cn/jshao), [Prof. Weiming Lu](https://person.zju.edu.cn/lwm), and [Prof. Siliang Tang](https://person.zju.edu.cn/siliang) . I received my Bachelor's Degree in the Department of Computer Science and Technology from Harbin Institute of Technology ([HIT](https://www.hit.edu.cn/)). I received my Master's Degree in the School of Informatics from the University of Edinburgh ([UoE](https://www.ed.ac.uk/)), UK. I am currently a lecturer in Zhejiang University of Science and Technology ([ZUST](https://www.zust.edu.cn/)), working in [BIT Lab](http://bit.zust.edu.cn/catalogue/information.html).
 
+## Research Interests
+Multimodal Fusion, Multi-Agent Systems, Biomedical AI, Complex Systems
 
 ## Professional Services
 - Conference Reviewer: NeurIPS 2025, ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025/2026, NeurIPS 2024/2025
