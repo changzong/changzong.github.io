@@ -14,7 +14,7 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 Multimodal Fusion, Multi-Agent Systems, Biomedical AI, Complex Systems
 
 ## Professional Services
-- Conference Reviewer: NeurIPS 2025, ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025/2026, NeurIPS 2024/2025
+- Conference Reviewer: NeurIPS 2025, ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025/2026, NeurIPS 2024/2025, AAAI 2026
 - Journal Reviewer: ACM TKDD
 
 ## OpenSource Project
