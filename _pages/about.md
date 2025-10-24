@@ -31,7 +31,7 @@ Artificial Cancer, Biomedical AI, Complex Systems
 
 - [Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering](https://aclanthology.org/2024.emnlp-main.101/)
   - **Chang Zong**, Yuchen Yan, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - Published on the conference of *Empirical Methods in Natural Language Processing*(EMNLP) (CCF-B), 2024
+  - Published on the conference of *Empirical Methods in Natural Language Processing* (EMNLP) (CCF-B), 2024
 
 - [Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning](https://aclanthology.org/2024.acl-long.222/)
   - Zeqi Tan, Yongliang Shen, Xiaoxia Cheng, **Chang Zong**, Wenqi Zhang, Jian Shao, Weiming Lu, Yueting Zhuang
