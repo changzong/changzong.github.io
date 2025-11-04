@@ -23,11 +23,11 @@ Artificial Cancer, Biomedical AI, Complex Systems
 ## Publications
 - [EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0933365725001812)
   - **Chang Zong**, Jian Wan, Siliang Tang, Lei Zhang
-  - Published on the journal of *Artificial Intelligence in Medicine* (SCI/JCR Q1, CCF-C), 2025
+  - Published on the journal of *Artificial Intelligence in Medicine* (SCI-Q1, CCF-C), 2025
 
 - [Stock Movement Prediction with Multimodal Stable Fusion via Gated Cross-Attention Mechanism](https://link.springer.com/article/10.1007/s40747-025-02023-3)
   - **Chang Zong**, Jian Wan, Lucia Cascone, Hang Zhou
-  - Published on the journal of *Complex & Intelligent Systems* (SCI/JCRQ2), 2025
+  - Published on the journal of *Complex & Intelligent Systems* (SCI-Q2), 2025
 
 - [Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering](https://aclanthology.org/2024.emnlp-main.101/)
   - **Chang Zong**, Yuchen Yan, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
@@ -39,7 +39,7 @@ Artificial Cancer, Biomedical AI, Complex Systems
 
 - [Graph neural networks meet with distributed graph partitioners and reconciliations](https://www.sciencedirect.com/science/article/abs/pii/S0925231222011894)
   - Zongshen Mu, Siliang Tang, **Chang Zong**, Dianhai Yu, Yueting Zhuang 
-  - Published on the journal of *Neurocomputing* (SCI/JCR Q1), 2023
+  - Published on the journal of *Neurocomputing* (SCI-Q1), 2023
 
 - [Citation Prediction via Influence Representation Using Temporal Graphs](https://link.springer.com/chapter/10.1007/978-981-99-3925-1_14)
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu 
