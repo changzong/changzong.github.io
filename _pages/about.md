@@ -9,7 +9,7 @@ redirect_from:
 
 ## Current Working Status
 - Zhejiang University of Science and Technology, Hangzhou, China (2024 - present)
-  - Lecturer
+  - Lecturer, School of Computer Science and Technology
 
 ## Education
 - Zhejiang University, Hangzhou, China (2019 - 2024)
