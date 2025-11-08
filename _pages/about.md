@@ -46,20 +46,20 @@ Artificial Cancer, Biomedical AI, Complex Systems
   - Published on the conference of *Big Data and Social Computing (BDSC)*, 2023
 
 ## Pre-Prints
-- [ProSwitch: Knowledge-Guided Instruction Tuning to Switch Between Professional and Non-Professional Responses](https://arxiv.org/abs/2403.09131)
-  - **Chang Zong**, Yuyan Chen, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - Accepted by *IJCNLP-AACL*, 2025
+- [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615)
+  - Yong Du, Yuchen Yan, Fei Tang, Zhengxi Lu, **Chang Zong**, Weiming Lu, Shengpei Jiang, Yongliang Shen
+  - Accepted by *The 40th Annual AAAI Conference on Artificial Intelligence* (AAAI) (CCF-A), 2025
 
 - [Structural-Temporal Coupling Anomaly Detection with Dynamic Graph Transformer](https://arxiv.org/abs/2505.08330)
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu
   - Accepted by *Data Mining and Knowledge Discovery* (CCF-B), 2025
 
+- [ProSwitch: Knowledge-Guided Instruction Tuning to Switch Between Professional and Non-Professional Responses](https://arxiv.org/abs/2403.09131)
+  - **Chang Zong**, Yuyan Chen, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
+  - Accepted by *IJCNLP-AACL*, 2025
+
 - [Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions](https://arxiv.org/abs/2504.15918)
   - **Chang Zong**, Bin Li, Shoujun Zhou, Jian Wan, Lei Zhang
-  - Under Review, 2025
-
-- [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615)
-  - Yong Du, Yuchen Yan, Fei Tang, Zhengxi Lu, **Chang Zong**, Weiming Lu, Shengpei Jiang, Yongliang Shen
   - Under Review, 2025
 
 ## Teaching
