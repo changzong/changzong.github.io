@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Chang Zong"
+title: "Chang Zong (宗畅)"
 author_profile: true
 redirect_from: 
   - /about/
