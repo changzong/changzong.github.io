@@ -14,7 +14,7 @@ I receive my Ph.D. degree from Zhejiang University ([ZJU](https://www.zju.edu.cn
 Artificial Cancer, Biomedical AI, Complex Systems
 
 ## Professional Services
-- Conference Reviewer: NeurIPS 2025, ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025/2026, NeurIPS 2024/2025, AAAI 2026
+- Conference Reviewer: ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025/2026, NeurIPS 2024/2025, AAAI 2026
 - Journal Reviewer: ACM TKDD
 
 ## OpenSource Project
@@ -23,7 +23,7 @@ Artificial Cancer, Biomedical AI, Complex Systems
 ## Publications
 - [EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering](https://www.sciencedirect.com/science/article/abs/pii/S0933365725001812)
   - **Chang Zong**, Jian Wan, Siliang Tang, Lei Zhang
-  - Published on the journal of *Artificial Intelligence in Medicine* (SCI-Q1, CCF-C), 2025
+  - Published on the journal of *Artificial Intelligence in Medicine (AIM)* (SCI-Q1, CCF-C), 2025
 
 - [Stock Movement Prediction with Multimodal Stable Fusion via Gated Cross-Attention Mechanism](https://link.springer.com/article/10.1007/s40747-025-02023-3)
   - **Chang Zong**, Jian Wan, Lucia Cascone, Hang Zhou
@@ -31,15 +31,15 @@ Artificial Cancer, Biomedical AI, Complex Systems
 
 - [Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering](https://aclanthology.org/2024.emnlp-main.101/)
   - **Chang Zong**, Yuchen Yan, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - Published on the conference of *Empirical Methods in Natural Language Processing* (EMNLP) (CCF-B), 2024
+  - Published on the conference of *Empirical Methods in Natural Language Processing (EMNLP)* (CCF-B), 2024
 
 - [Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning](https://aclanthology.org/2024.acl-long.222/)
   - Zeqi Tan, Yongliang Shen, Xiaoxia Cheng, **Chang Zong**, Wenqi Zhang, Jian Shao, Weiming Lu, Yueting Zhuang
-  - Published on the conference of *Annual Meeting of the Association for Computational Linguistics* (ACL) (CCF-A), 2024
+  - Published on the conference of *Annual Meeting of the Association for Computational Linguistics (ACL)* (CCF-A), 2024
 
 - [Graph neural networks meet with distributed graph partitioners and reconciliations](https://www.sciencedirect.com/science/article/abs/pii/S0925231222011894)
   - Zongshen Mu, Siliang Tang, **Chang Zong**, Dianhai Yu, Yueting Zhuang 
-  - Published on the journal of *Neurocomputing* (SCI-Q1), 2023
+  - Published on the journal of *Neurocomputing* (SCI-Q1, CCF-C), 2023
 
 - [Citation Prediction via Influence Representation Using Temporal Graphs](https://link.springer.com/chapter/10.1007/978-981-99-3925-1_14)
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu 
@@ -48,15 +48,15 @@ Artificial Cancer, Biomedical AI, Complex Systems
 ## Pre-Prints
 - [Test-Time Reinforcement Learning for GUI Grounding via Region Consistency](https://arxiv.org/abs/2508.05615)
   - Yong Du, Yuchen Yan, Fei Tang, Zhengxi Lu, **Chang Zong**, Weiming Lu, Shengpei Jiang, Yongliang Shen
-  - Accepted by *The 40th Annual AAAI Conference on Artificial Intelligence* (AAAI) (CCF-A), 2025
+  - Accepted by *The 40th Annual AAAI Conference on Artificial Intelligence (AAAI)* (CCF-A), 2026
 
 - [Structural-Temporal Coupling Anomaly Detection with Dynamic Graph Transformer](https://arxiv.org/abs/2505.08330)
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu
-  - Accepted by *Data Mining and Knowledge Discovery* (CCF-B), 2025
+  - Accepted by *Data Mining and Knowledge Discovery (DMKD)* (CCF-B), 2025
 
 - [ProSwitch: Knowledge-Guided Instruction Tuning to Switch Between Professional and Non-Professional Responses](https://arxiv.org/abs/2403.09131)
   - **Chang Zong**, Yuyan Chen, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - Accepted by *IJCNLP-AACL*, 2025
+  - Accepted by *Asia-Pacific Chapter of the Association for Computational Linguistics (AACL)*, 2025
 
 - [Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions](https://arxiv.org/abs/2504.15918)
   - **Chang Zong**, Bin Li, Shoujun Zhou, Jian Wan, Lei Zhang
