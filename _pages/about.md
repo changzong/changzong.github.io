@@ -23,7 +23,9 @@ redirect_from:
   - Advisor: Prof. Daming Shi
 
 ## Research Interests
-Knowledge Fusion and Reasoning, AI Applications in Biomedicine and Finance, Complex System Modeling
+- Knowledge Fusion and Reasoning from Heterogeneous Data Sources
+- AI in Biomedicine (Cancer, Stroke, Rare Diseases) and Finance (Stocks, Funds)
+- Complex System Modeling with Knowledge-Augmented Neural Networks
 
 ## Publications
 - **EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering**
