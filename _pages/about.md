@@ -69,6 +69,10 @@ redirect_from:
   - **Chang Zong**, Bin Li, Shoujun Zhou, Jian Wan, Lei Zhang
   - Under Review, 2025
 
+- **Fund Selection via Dual-Screening Classification: Evidence from China**
+  - **Chang Zong**, Tao Yan, Hang Zhou, Yi Cao, Yichu Wang
+  - Under Review, 2025
+
 ## Professional Services
 - Conference Reviewer: ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025/2026, NeurIPS 2024/2025, AAAI 2026
 - Journal Reviewer: ACM TKDD
