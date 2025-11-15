@@ -8,17 +8,17 @@ redirect_from:
 ---
 
 ## Current Working Status
-- Zhejiang University of Science and Technology, Hangzhou, China (2024 - present)
+- **Zhejiang University of Science and Technology**, Hangzhou, China (2024 - present)
   - Lecturer, School of Computer Science and Technology
 
 ## Education
-- Zhejiang University, Hangzhou, China (2019 - 2024)
+- **Zhejiang University**, Hangzhou, China (2019 - 2024)
   - Ph.D. in Artificial Intelligence
   - Advisor: Prof. Yueting Zhuang
-- University of Edinburgh, Edinburgh, UK (2012 - 2013)
+- **University of Edinburgh**, Edinburgh, UK (2012 - 2013)
   - M.S. in Informatics
   - Advisor: Prof. Bonnie Webber
-- Harbin Institute of Technology, Harbin, China (2008 - 2012)
+- **Harbin Institute of Technology**, Harbin, China (2008 - 2012)
   - B.S. in Information Security
   - Advisor: Prof. Daming Shi
 
@@ -74,24 +74,28 @@ redirect_from:
 - Journal Reviewer: ACM TKDD
 
 ## OpenSource Project
-- OpenKS: A domain generalizable knowledge learning and computing platform, Project Leader, [GitHub](https://github.com/ZJU-OpenKS/OpenKS)
+- **OpenKS**: A domain generalizable knowledge learning and computing platform, Project Leader, [GitHub](https://github.com/ZJU-OpenKS/OpenKS)
 
 ## Research Projects
 - Zhejiang Province Key Research and Development Plan (Leading Project), 2025, First Participant
 - Zhejiang Province Key Research and Development Plan (Geese Project), 2023, Participant
 - National Natural Science Foundation of China (Special Project), 2022, Participant
 - Zhejiang Province Key Research and Development Plan (Selective Commission Project), 2022, First Student Participant
-- National Key Research and Development Program of China (2030), 2021, Participant
+- National Key Research and Development Program of China (AI 2030), 2021, Participant
 
 ## Teaching
 - Medical Artificial Intelligence, 2025 Autumn
-- Natural Language Processing & Large Language Models, 2025 Spring
+- Natural Language Processing & Large Models, 2025 Spring
 - Python Programming, 2025 Spring
 - Literature Review and Writing, 2025 Spring
 
 ## Working Experience
 - Lecture, Zhejiang University of Science and Technology, Hangzhou, China (2024 - present)
 - AI Director (VP), QuantChi Data, Hangzhou, China (2018 - 2023)
+  - Acknowledge to Prof. Jian Shao
 - Big Data Engineer, Electronic Soul, Hangzhou, China (2016 - 2018)
+  - Acknowledge to Mr. Xiaobiao Yu
 - Big Data Engineer, Transfer Group, Hangzhou, China (2015 - 2016)
+  - Acknowledge to Mr. Leipeng Tang
 - Data Scientist, ShapeSpace Ltd. Edinburgh, UK (2013 - 2015)
+  - Acknowledge to Prof. Andrew Sherlock and Prof. Susan Carpenter (R.I.P.)
