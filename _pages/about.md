@@ -23,7 +23,7 @@ redirect_from:
   - Advisor: Prof. Daming Shi
 
 ## Research Interests
-Biomedical Reasoning with LLMs, Artificial Cancer, Complex Systems
+Knowledge Fusion and Reasoning, AI Applications in Biomedicine and Finance, Complex System Modeling
 
 ## Publications
 - **EvidenceMap: Learning Evidence Analysis to Unleash the Power of Small Language Models for Biomedical Question Answering**
