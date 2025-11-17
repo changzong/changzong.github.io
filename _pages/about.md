@@ -71,7 +71,7 @@ redirect_from:
 
 - **Fund Selection via Dual-Screening Classification: Evidence from China**
   - **Chang Zong**, Tao Yan, Hang Zhou, Yi Cao, Yichu Wang
-  - Under Review, 2025
+  - In Submission, 2025
 
 ## Professional Services
 - Conference Reviewer: ICML 2025, ACL ARR 2025, ACMMM 2025, ICLR 2025/2026, NeurIPS 2024/2025, AAAI 2026
@@ -94,7 +94,7 @@ redirect_from:
 - Literature Review and Writing, 2025 Spring
 
 ## Working Experience
-- Lecture, Zhejiang University of Science and Technology, Hangzhou, China (2024 - present)
+- Lecturer, Zhejiang University of Science and Technology, Hangzhou, China (2024 - present)
 - AI Director (VP), QuantChi Data, Hangzhou, China (2018 - 2023)
   - Acknowledge to Prof. Jian Shao
 - Big Data Engineer, Electronic Soul, Hangzhou, China (2016 - 2018)
@@ -102,4 +102,4 @@ redirect_from:
 - Big Data Engineer, Transfer Group, Hangzhou, China (2015 - 2016)
   - Acknowledge to Mr. Leipeng Tang
 - Data Scientist, ShapeSpace Ltd. Edinburgh, UK (2013 - 2015)
-  - Acknowledge to Prof. Andrew Sherlock and Prof. Susan Carpenter (R.I.P.)
+  - Acknowledge to Prof. Andrew Sherlock, Dr. Christopher Ball, and Prof. Susan Carpenter (R.I.P.)
