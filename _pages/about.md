@@ -65,6 +65,10 @@ redirect_from:
   - **Chang Zong**, Yuyan Chen, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
   - Accepted by *Asia-Pacific Chapter of the Association for Computational Linguistics*, 2025
 
+- **RPA: Recursive Perturbation-Based Universal Adversarial Attacks on Multimodal Generative Tasks**
+  - Qian Yaguan, Chen Zhihao, Bao Qiqi, **Chang Zong**, Yu Fei, Ji Shouling, Wang Bin, Gu Zhaoquan, Lei Zhen
+  - Under Review, 2025
+
 - **Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**
   - **Chang Zong**, Bin Li, Shoujun Zhou, Jian Wan, Lei Zhang
   - Under Review, 2025
