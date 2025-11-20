@@ -42,11 +42,11 @@ redirect_from:
 
 - **Triad: A Framework Leveraging a Multi-Role LLM-based Agent to Solve Knowledge Base Question Answering**
   - **Chang Zong**, Yuchen Yan, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - *Empirical Methods in Natural Language Processing* (CCF-B), 2024
+  - *The 2024 Conference on Empirical Methods in Natural Language Processing* (CCF-B), 2024
 
 - **Learning Global Controller in Latent Space for Parameter-Efficient Fine-Tuning**
   - Zeqi Tan, Yongliang Shen, Xiaoxia Cheng, **Chang Zong**, Wenqi Zhang, Jian Shao, Weiming Lu, Yueting Zhuang
-  - *Annual Meeting of the Association for Computational Linguistics* (CCF-A), 2024
+  - *The 62nd Annual Meeting of the Association for Computational Linguistics* (CCF-A), 2024
 
 - **Graph neural networks meet with distributed graph partitioners and reconciliations**
   - Zongshen Mu, Siliang Tang, **Chang Zong**, Dianhai Yu, Yueting Zhuang 
@@ -54,7 +54,7 @@ redirect_from:
 
 - **Citation Prediction via Influence Representation Using Temporal Graphs**
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu 
-  - *Big Data and Social Computing*, 2023
+  - *China National Conference on Big Data & Social Computing*, 2023
 
 ## Pre-Prints
 - **Test-Time Reinforcement Learning for GUI Grounding via Region Consistency**
@@ -63,7 +63,7 @@ redirect_from:
 
 - **ProSwitch: Knowledge-Guided Instruction Tuning to Switch Between Professional and Non-Professional Responses**
   - **Chang Zong**, Yuyan Chen, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
-  - Accepted by *Asia-Pacific Chapter of the Association for Computational Linguistics*, 2025
+  - Accepted by *Asian Chapter of the Association for Computational Linguistics*, 2025
 
 - **RPA: Recursive Perturbation-Based Universal Adversarial Attacks on Multimodal Generative Tasks**
   - Qian Yaguan, Chen Zhihao, Bao Qiqi, **Chang Zong**, Yu Fei, Ji Shouling, Wang Bin, Gu Zhaoquan, Lei Zhen
