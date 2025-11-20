@@ -32,6 +32,10 @@ redirect_from:
   - **Chang Zong**, Jian Wan, Siliang Tang, Lei Zhang
   - *Artificial Intelligence in Medicine* (SCI-Q1, CCF-C), 2025
 
+- **Structural-Temporal Coupling Anomaly Detection with Dynamic Graph Transformer**
+  - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu
+  - *Data Mining and Knowledge Discovery* (CCF-B), 2025
+
 - **Stock Movement Prediction with Multimodal Stable Fusion via Gated Cross-Attention Mechanism**
   - **Chang Zong**, Jian Wan, Lucia Cascone, Hang Zhou
   - *Complex & Intelligent Systems* (SCI-Q2), 2025
@@ -56,10 +60,6 @@ redirect_from:
 - **Test-Time Reinforcement Learning for GUI Grounding via Region Consistency**
   - Yong Du, Yuchen Yan, Fei Tang, Zhengxi Lu, **Chang Zong**, Weiming Lu, Shengpei Jiang, Yongliang Shen
   - Accepted by *The 40th Annual AAAI Conference on Artificial Intelligence* (CCF-A), 2026
-
-- **Structural-Temporal Coupling Anomaly Detection with Dynamic Graph Transformer**
-  - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu
-  - Accepted by *Data Mining and Knowledge Discovery* (CCF-B), 2025
 
 - **ProSwitch: Knowledge-Guided Instruction Tuning to Switch Between Professional and Non-Professional Responses**
   - **Chang Zong**, Yuyan Chen, Weiming Lu, Jian Shao, Yongfeng Huang, Heng Chang, Yueting Zhuang
