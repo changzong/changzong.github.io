@@ -85,6 +85,7 @@ redirect_from:
 - **OpenKS**: A domain generalizable knowledge learning and computing platform, Project Leader, [GitHub](https://github.com/ZJU-OpenKS/OpenKS)
 
 ## Research Projects
+- ZUST Graduate Student Research and Innovation Fund, 2025, Advisor
 - Zhejiang Province Key Research and Development Plan (Leading Project), 2025, First Participant
 - Zhejiang Province Key Research and Development Plan (Geese Project), 2023, Participant
 - National Natural Science Foundation of China (Special Project), 2022, Participant
