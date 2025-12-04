@@ -67,7 +67,7 @@ redirect_from:
 
 - **RPA: Recursive Perturbation-Based Universal Adversarial Attacks on Multimodal Generative Tasks**
   - Qian Yaguan, Chen Zhihao, Bao Qiqi, **Chang Zong**, Yu Fei, Ji Shouling, Wang Bin, Gu Zhaoquan, Lei Zhen
-  - Under Review, 2025
+  - Accepted by *The IEEE Transactions on Circuits and Systems for Video Technology* (SCI Q1, CCF-B), 2025
 
 - **Ask2Loc: Learning to Locate Instructional Visual Answers by Asking Questions**
   - **Chang Zong**, Bin Li, Shoujun Zhou, Jian Wan, Lei Zhang
