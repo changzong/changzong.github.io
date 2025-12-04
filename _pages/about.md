@@ -34,7 +34,7 @@ redirect_from:
 
 - **Structural-Temporal Coupling Anomaly Detection with Dynamic Graph Transformer**
   - **Chang Zong**, Yueting Zhuang, Jian Shao, Weiming Lu
-  - *Data Mining and Knowledge Discovery* (CCF-B), 2025
+  - *Data Mining and Knowledge Discovery* (SCI-Q2, CCF-B), 2025
 
 - **Stock Movement Prediction with Multimodal Stable Fusion via Gated Cross-Attention Mechanism**
   - **Chang Zong**, Jian Wan, Lucia Cascone, Hang Zhou
